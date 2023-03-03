@@ -7,6 +7,10 @@ User Stories:
 
 Dependencies: Completion or in Parallel with Epic [MyWebClass Site Creation](epic_mywebclass_site_creation.md)
 
+Risks: The application could result in major legal issues if it does not confirm to all legal requirements. We can 
+mitigate this risk in following industry standards by using tools to scan our site for legal compliance during 
+development and before releases through our pipeline to Prod.
+
 Estimated Effort: 1 Full Sprint, where Sprints are 2 Week periods. (2 Weeks)
 
 Priority: Medium

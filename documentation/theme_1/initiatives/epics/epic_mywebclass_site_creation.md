@@ -10,6 +10,9 @@ User Stories:
 
 Dependencies: Completion of Epic [Project Infra and Setup](epic_project_infra_and_initial_setup.md)
 
+Risks: Failure to follow requirements from User Stories could result in rework or scope creep. We can mitigate
+the risk here by adequately defining all the tasks needed to deliver the minimally viable product for the user.
+
 Estimated Effort: 1/2 Sprint, where Sprints are 2 Week periods. (1 Week)
 
 Priority: Medium

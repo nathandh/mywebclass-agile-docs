@@ -61,3 +61,12 @@ This theme covers breakdown of actual development tasks necessary to deliver a m
 ## Test plan
 Site will be tested iteratively and automatically before each release for Code Review, and before Prod deployment. 
 Will make use of libraries such as Jest and Playwright to facilitate this.
+
+Docker will manage the CI/CD pipeline and have blockers for promotion based on automated Test success or failure. 
+Plan container setup includes accounting for--at minimal--a Beta Stage of release, as well as a final Prod Stage.
+
+At the Beta Stage of release, we will additionally employ Manual User Testing by stakeholders, and seek feedback for 
+bugs and issues uncovered before feature release to Prod. Issues can be logged and tracked on GitHUB and sent back to 
+the development for resolution before final merge to Main and release for deployment to Prod. By having additional 
+manual testing, we can best ensure features release meet the needs of our customers, and catch issues that our automatic 
+tests might have not accounted for.

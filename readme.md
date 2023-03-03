@@ -128,8 +128,9 @@ stack development specifically.
 
 ### Project Breakdown
 
-[Project Documentation](documentation/theme_0/theme_project_documentation.md)
-[Provide Technology Educators Information and Links to Resources to Improve their Courses and Teaching](documentation/theme_1/theme_provide_educators_teaching_resources.md)
+1. [Project Documentation](documentation/theme_0/theme_project_documentation.md)
+
+2. [Provide Technology Educators Information and Links to Resources to Improve their Courses and Teaching](documentation/theme_1/theme_provide_educators_teaching_resources.md)
 
 ## Estimated Release Schedule
 

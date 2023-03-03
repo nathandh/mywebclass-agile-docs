@@ -31,7 +31,7 @@ This theme covers breakdown of actual development tasks necessary to deliver a m
      * [Compile Links and Resources](initiatives/epics/stories/story_links_information_courses.md)
        #### Tasks
         *  [Compile List of Links and Resources](initiatives/epics/stories/tasks/task_compile_list_links_resources.md)
-        * [Filter and Rank List](initiatives/epics/stories/tasks/task_fiilter_rank_curated_list.md)
+        * [Filter and Rank List](initiatives/epics/stories/tasks/task_filter_rank_curated_list.md)
         * [Display Curated List](initiatives/epics/stories/tasks/task_display_curated_list.md)
      * [Intuitive Navigation](initiatives/epics/stories/story_user_navigation.md)
        #### Tasks
@@ -44,7 +44,19 @@ This theme covers breakdown of actual development tasks necessary to deliver a m
         * [Create and Enhance Landing Page](initiatives/epics/stories/tasks/task_enhance_landing_page.md) 
      * [Rich Media Content](initiatives/epics/stories/story_rich_content.md)
        #### Tasks
-        * [Video or Rich Media](initiatives/epics/stories/tasks/task_video_or_rich_media_add.md) 
+        * [Video or Rich Media](initiatives/epics/stories/tasks/task_video_or_rich_media_add.md)
+  * [MyWebClass SEO and Analytics](initiatives/epics/epic_mywebclass_seo_analytics.md)
+    #### Stories
+     * [Search Engine Optimization](initiatives/epics/stories/story_search_engine_optimization.md)
+     * [Site Analytics](initiatives/epics/stories/story_site_analytics.md)
+  * [Legal Compliance and Validation](initiatives/epics/epic_legal_compliance.md)
+    #### Stories
+     * [User Information Handling](initiatives/epics/stories/story_user_information_handling.md)
+     * [Legal Compliance Validation](initiatives/epics/stories/story_legal_compliance_validation.md)
+  * [Automatic Deployment and Testing](initiatives/epics/epic_automatic_deployment_and_testing.md)
+    #### Stories
+     * [CI/CD Pipelines](initiatives/epics/stories/story_ci_cd_pipelines.md)
+     * [Code Standard Validation](initiatives/epics/stories/story_code_standard_validation.md)
 
 ## Test plan
 Site will be tested iteratively and automatically before each release for Code Review, and before Prod deployment. 

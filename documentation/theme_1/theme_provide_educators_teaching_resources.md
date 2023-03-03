@@ -61,3 +61,4 @@ This theme covers breakdown of actual development tasks necessary to deliver a m
 ## Test plan
 Site will be tested iteratively and automatically before each release for Code Review, and before Prod deployment. 
 Will make use of libraries such as Jest and Playwright to facilitate this.
+consider adding Validate that the application is automatically deployed to the appropriate environment, such as development, staging, or production, depending on the phase of the CI/CD pipeline.

@@ -15,3 +15,10 @@ The preliminary planned testing stack is as follows:
 
 * Playwright for End-To-End Testing. Written in SPEC format, with support of Python at the Docker Container 
   Level: https://playwright.dev/
+
+### Load Testing
+There is initial consideration and potential of using Artillery with Playwright to achieve Load Testing: 
+* https://www.artillery.io/docs/guides/guides/playwright
+* https://github.com/artilleryio/artillery-engine-playwright#readme
+In this scenario, we can simulate thousands of users visiting our site to stress test our application. It would provide 
+us the ability to see how our application will scale as our user base grows. 

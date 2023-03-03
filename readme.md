@@ -100,8 +100,7 @@ draft of the plan together, design it yourself and you should review your partne
 ### Submission
 Once you have the best version of your project plan after comparing it and resoling the issues turn the plan into Canvas.
 
-
-## Overview
+## General Overview
 
 Looking to learn modern software development technologies and processes in a hands-on learning environment? Look no
 further than MyWebClass! Our platform provides an integrated learning experience that contextualizes technology with
@@ -117,26 +116,27 @@ business processes to provide realistic scenarios for students to learn technolo
 * [User Story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
 * [Task Template](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
 
-## My Rough Draft
+## MyWebClass Project Plan
+### Project Objective
 
-Here is an example of how I initially break down a project; however, I intend to change this in the near future, so that
-i organize my themes by business activity instead of release schedule. Examples of these
-themes include the DevOps and Search Engine Themes.
+The goal of this project is to create a web-based application that caters to educators seeking to enhance their 
+curriculum and teaching of web development technology to students. MyWebClass.org will seek to alleviate the burden 
+of finding resources about the best practices and technology stacks currently available to educators to build their 
+courses around. Ultimately, our desire is to improve the student learning experience and help expand interest and 
+excitement around the many career opportunities available related to technology in general, and the art of full 
+stack development specifically.
 
-In practice, it is commonplace to adapt project documentation to meet evolving project needs early on in the process.
-Therefore, please do not feel obligated to follow my approach. Instead, view it as an example of how to develop your own
-documentation, based on your preferred methodology for breaking down the problem. Should you find that it does not meet
-your needs, it can be adjusted, given that we are still in the early stages of the project.
+### Project Breakdown
 
-At this juncture, the efficacy of the documentation is measured by how well it enables us to manage the project. We will
-review this effectiveness before the next iteration of the project.
-# Your  plan should replace the content below
+[Project Documentation](documentation/theme_0/theme_project_documentation.md)
+[Provide Technology Educators Information and Links to Resources to Improve their Courses and Teaching](documentation/theme_1/theme_provide_educators_teaching_resources.md)
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+## Estimated Release Schedule
 
-## Release Schedule
-
-| Release Version | Release Date | Features |
-|-----------------|--------------|----------|
-| 0.1.x           | TBD          | TBD      |
+| Release Version | Release Date | Features                                       |
+|-----------------|--------------|------------------------------------------------|
+| 0.1.x           | TBD          | Initial package creation, setup, configuration |
+| 0.2.x           | TBD          | Base MyWebClass Core Features                  |
+| 0.3.x           | TBD          | Analytics and Legal Compliance concerns        |
+| 0.4.x           | TBD          | Beta Releasable for User Testing               |
 

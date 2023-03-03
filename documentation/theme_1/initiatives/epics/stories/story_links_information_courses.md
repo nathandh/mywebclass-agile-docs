@@ -5,5 +5,5 @@ Site provides curated relevant information that links to resources surrounding t
 
 # List Tasks related to this Story
 1. [Compile List of Links and Resources](./tasks/task_compile_list_links_resources.md)
-2. [Filter and Rank List](./tasks/task_fiilter_rank_curated_list.md)
+2. [Filter and Rank List](./tasks/task_filter_rank_curated_list.md)
 3. [Display Curated List](./tasks/task_display_curated_list.md)

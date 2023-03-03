@@ -12,7 +12,7 @@ This theme covers creation of the documentation necessary for project planning a
          * [Create Project Themes](initiatives/epics/stories/tasks/task_create_project_themes.md)
          * [Create Project Initiatives](initiatives/epics/stories/tasks/task_create_project_initiatives.md)
          * [Create Project Epics](initiatives/epics/stories/tasks/task_create_project_epics.md)
-         * [Create User Stories](initiatives/epics/stories/tasks/task_create_user_stories.md)*   
+         * [Create User Stories](initiatives/epics/stories/tasks/task_create_user_stories.md)   
       * [Follow Agile and Lean Documentation](initiatives/epics/stories/story_follow_agile_lean.md)
         #### Tasks
          * [Validate File Breakdown Task](initiatives/epics/stories/tasks/task_ensure_breakdown_sections_exist.md)
@@ -21,8 +21,9 @@ This theme covers creation of the documentation necessary for project planning a
          * [Create Project Epics](initiatives/epics/stories/tasks/task_create_project_epics.md)
          * [Create User Stories](initiatives/epics/stories/tasks/task_create_user_stories.md)
          * [Provide Project Overview Summary](initiatives/epics/stories/tasks/task_provide_project_overview_objective.md)
-     
-* Documentation is fluid, and we expect some requirements and documentation may change. What exists here however, should 
+   
+  
+* **Note:** Documentation is fluid, and we expect some requirements and documentation may change. What exists here however, should 
 be enough to get us to a point of delivering a minimally viable product for our customer.
 
 ## Test plan

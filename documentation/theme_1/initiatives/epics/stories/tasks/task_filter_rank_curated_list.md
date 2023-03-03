@@ -5,7 +5,7 @@ User Story(s):
 
 Description: Logically filter and rank curated list of Links and Resources for site. 
 
-Effort Estimate: 1/2 Sprint (1 weeks).
+Effort Estimate: 1/2 Sprint (1 week).
 
 Assigned To: nathandh
 

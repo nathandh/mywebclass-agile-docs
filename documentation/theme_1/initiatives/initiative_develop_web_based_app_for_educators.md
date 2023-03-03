@@ -7,4 +7,11 @@
 * [Setup Automatic Deployment and Testing (CI/CD)]()
 ## Test plan
 Iterative and continuous testing as development is done. This includes at minimal some forms of Unit testing to ensure 
-components functionally render as intended.
+components functionally render as intended. 
+
+The preliminary planned testing stack is as follows:
+
+* Jest for Unit Tests in JS frontend code: https://jestjs.io/
+
+* Playwright for End-To-End Testing. Written in SPEC format, with support of Python at the Docker Container 
+  Level: https://playwright.dev/
